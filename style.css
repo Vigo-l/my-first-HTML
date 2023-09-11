@@ -1,0 +1,86 @@
+body{
+    background-color: rgb(171, 114, 49);
+    margin: 4px;
+    font-family: sans-serif,Arial,helvetica;
+}
+
+#intro{
+    color: antiquewhite;
+    position: absolute;
+    top: 167px;
+    right: 509px;
+    width: 444px;
+    height: 186px;
+    border: 3px solid #73AD21;
+}
+
+#hobbies{
+    color: aqua;
+    position: absolute;
+    top: 365px;
+    right: 514px;
+    width: 399px;
+    height: 150px;
+    border: 3px solid #73AD21;
+}
+
+#meimage{
+    position: absolute;
+    top: 23px;
+    right: 978px;
+}
+
+#name{
+    position: absolute;
+    top: 102px;
+    right: 509px;
+    width: 444px;
+    height: 41px;
+    border: 3px solid #73AD21;
+}
+
+.highlight {
+    color: darkblue;
+}
+
+#instagrams{
+    position: absolute;
+    top: 932px;
+    right: 854px;
+}
+#yt{
+    position: absolute;
+    top: 932px;
+    right: 904px;
+}
+#twitter{
+    position: absolute;
+    top: 932px;
+    right: 951px;
+}
+#github{
+    position: absolute;
+    top: 932px;
+    right: 1006px;
+}
+
+#album{
+    position: absolute;
+    top: 543px;
+    right: 509px; 
+}
+#test{
+    position: absolute;
+    top: 363px;
+    right: 968px;
+    width: 276px;
+    height: 182px;
+    border: 3px solid #73AD21;
+}
+#music{
+    position: absolute;
+    top: 604px;
+    right: 980px;
+    width: 444px;
+    height: 41px;
+}
