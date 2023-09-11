@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(171, 114, 49);
+    background-color: rgb(60, 37, 126);
     margin: 4px;
     font-family: sans-serif,Arial,helvetica;
 }
@@ -27,7 +27,7 @@ body{
 #meimage{
     position: absolute;
     top: 23px;
-    right: 898px;
+    right: 886px;
 }
 
 #name{
