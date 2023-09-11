@@ -1,6 +1,6 @@
 body{
     background-color: rgb(60, 37, 126);
-    margin: 4px;
+    margin: 0 auto;
     font-family: sans-serif,Arial,helvetica;
 }
 
@@ -83,4 +83,8 @@ body{
     right: 900px;
     width: 444px;
     height: 41px;
+}
+#mainContainer{
+    width: 850px;
+    margin: 0px auto;
 }
