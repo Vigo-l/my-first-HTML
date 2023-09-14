@@ -6,9 +6,6 @@ body{
 
 #intro{
     color: antiquewhite;
-    position: absolute;
-    top: 167px;
-    right: 429px;
     width: 444px;
     height: 186px;
     border: 3px solid #73AD21;
@@ -16,73 +13,9 @@ body{
 
 #hobbies{
     color: aqua;
-    position: absolute;
-    top: 365px;
-    right: 434px;
     width: 399px;
     height: 150px;
     border: 3px solid #73AD21;
-}
-
-#meimage{
-    position: absolute;
-    top: 23px;
-    right: 886px;
-}
-
-#name{
-    position: absolute;
-    top: 102px;
-    right: 429px;
-    width: 444px;
-    height: 41px;
-    border: 3px solid #73AD21;
-}
-
-.highlight {
-    color: darkblue;
-}
-
-#instagrams{
-    position: absolute;
-    top: 932px;
-    right: 774px;
-}
-#yt{
-    position: absolute;
-    top: 932px;
-    right: 824px;
-}
-#twitter{
-    position: absolute;
-    top: 932px;
-    right: 871px;
-}
-#github{
-    position: absolute;
-    top: 932px;
-    right: 926px;
-}
-
-#album{
-    position: absolute;
-    top: 543px;
-    right: 429px; 
-}
-#test{
-    position: absolute;
-    top: 363px;
-    right: 888px;
-    width: 276px;
-    height: 182px;
-    border: 3px solid #73AD21;
-}
-#music{
-    position: absolute;
-    top: 604px;
-    right: 900px;
-    width: 444px;
-    height: 41px;
 }
 #mainContainer{
     width: 850px;
