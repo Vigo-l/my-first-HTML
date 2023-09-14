@@ -75,3 +75,8 @@ body{
     height: 50px;
     background-color: #fff;
 }
+
+#navigation a{
+    padding: 5px;
+    background-color: aquamarine;
+}
