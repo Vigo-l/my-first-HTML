@@ -9,6 +9,7 @@ body{
     width: 842px;
     height: 143px;
     border: 3px solid #73AD21;
+    border-radius: 5px;
 }
 
 #hobbies{
@@ -16,6 +17,7 @@ body{
     width: 353px;
     height: 150px;
     border: 3px solid #73AD21;
+    border-radius: 5px;
     margin: 0px 0px 0px 46px;
 }
 #mainContainer{
@@ -51,6 +53,7 @@ body{
     width: 445px;
     height: 150px;
     border: 3px solid #73AD21;
+    border-radius: 5px;
     margin: 0px -47px 0px 0px;
 }
 
@@ -85,6 +88,7 @@ body{
     padding: 5px;
     background-color: aquamarine;
     text-decoration: none;
+    border-radius: 10px;
 }
 
 #navigation a:hover {
