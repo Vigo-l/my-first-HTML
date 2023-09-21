@@ -28,6 +28,8 @@ body{
 #introcontainer{
     width: 470px;
     margin: 0px 0px 0px 0px;
+    width: 879px;
+    height:467px;
 }
 
 #hobbycontainter h2{
@@ -60,6 +62,8 @@ body{
 #music{
     float: left;
     margin: 0px 0px 0px 0px;
+    width:399px;
+    height:270px;
 }
 
 #hobbies{
@@ -69,6 +73,8 @@ body{
 
 #album{
     float: left;
+    width: 448px; 
+    height: 350px;
 }
 
 .socials{
@@ -89,6 +95,8 @@ body{
     background-color: aquamarine;
     text-decoration: none;
     border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
 }
 
 #navigation a:hover {
@@ -99,4 +107,8 @@ body{
 #coolmiami{
     width: 90px;
     height: 90px;
+}
+
+#pyro{
+    float: right;
 }
